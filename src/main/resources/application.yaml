@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: yiwangtong
+    password: qwzsSusyRqAawO9GE2ZX
+    url: jdbc:mysql://192.168.10.150:13306/portal_twork?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&allowMultiQueries=true&serverTimezone=Asia/Shanghai&useSSL=false
